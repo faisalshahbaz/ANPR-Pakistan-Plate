@@ -31,5 +31,9 @@ make
 
 sudo make install
 
+# Trian own plates Local-Binary-Pattern
+
+https://github.com/faisalshahbaz/Local-Binary-Pattern-training.git
+
 
 
