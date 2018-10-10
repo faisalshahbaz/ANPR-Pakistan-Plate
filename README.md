@@ -8,7 +8,7 @@ python 2.7
 
 pip install opencv-python==2.4.9 
 
-sudo apt-get install python-qt4
+sudo apt-get install python-qt4 qt4-designer
 
 # Compile Latest Version Openalpr Library
 sudo apt-get install libopencv-dev libtesseract-dev git cmake build-essential libleptonica-dev
