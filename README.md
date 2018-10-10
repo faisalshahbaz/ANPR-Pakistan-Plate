@@ -42,5 +42,4 @@ Main.py >> video_capture = cv2.VideoCapture('path video')
 Main.py >> alpr = Alpr("pak", "path/config/openalpr.conf",
                     "path/openalpr/runtime_data")
 
-
-
+# GUI & Output Image
