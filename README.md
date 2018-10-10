@@ -2,8 +2,8 @@
 Automatic Number Plate Recognition System on Pakistan Plate.
 
 # Install Libraries 
-Ubuntu 16.04
-python 2.7
+Ubuntu 16.04 #
+python 2.7 #
 pip install opencv-python==2.4.9 
 sudo apt-get install python-qt4
 
