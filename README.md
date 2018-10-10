@@ -43,3 +43,5 @@ Main.py >> alpr = Alpr("pak", "path/config/openalpr.conf",
                     "path/openalpr/runtime_data")
 
 # GUI & Output Image
+
+https://github.com/faisalshahbaz/ANPR-Pakistan-Plate/blob/master/images/out.png
